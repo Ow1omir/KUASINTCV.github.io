@@ -252,7 +252,8 @@ h2 {
 
 .page-outer {
     min-height: 100vh;
-    background: url(/img/Background.png) center top repeat-y fixed;
+    background: url("https://raw.githubusercontent.com/Ow1omir/KUASINTCV.github.io/main/img/Background.png") center top repeat-y fixed;
+    
     background-color: #000;
 }
 
